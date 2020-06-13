@@ -2,7 +2,7 @@
 export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
 # ====================================================
-# Description:PyOne 一键脚本 for Debian 8+ 、CentOS 7、Ubuntu 16+
+# Description:PyOne 一键脚本 for Debian 8+ 、CentOS 7、Ubuntu 16+，RmPew修改版
 # ====================================================
 
 #fonts color
